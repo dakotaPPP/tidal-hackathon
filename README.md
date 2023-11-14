@@ -1,6 +1,6 @@
 # SmartScore
 
-SmartScore is an innovative software developed by our team, which secured an impressive 4th position out of 64 competing teams in a university-wide artificial intelligence and machine learning hackathon. The team, comprised of Adam Chawdhury, Johnnie Chen, Julio Dondisch, and Dakota Pound, collaborated to create a powerful tool that automates the grading process for free response questions in math and physics exams.
+SmartScore is an innovative software developed by our team, which secured an impressive 4th position out of 64 competing teams in a Texas A&M artificial intelligence and machine learning focused hackathon. The team, comprised of Adam Chawdhury, Johnnie Chen, Julio Dondisch, and Dakota Pound, collaborated to create a powerful tool that automates the grading process for free response questions in math and physics exams.
 
 ## Features
 
