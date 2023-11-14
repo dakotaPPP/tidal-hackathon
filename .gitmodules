@@ -1,0 +1,6 @@
+[submodule "database_manager"]
+	path = database_manager
+	url = git@github.com:dakotaPPP/tidal_hackathon_database.git
+[submodule "Math_OCR"]
+	path = Math_OCR
+	url = https://github.com/chenjohnnie/Math-OCR-for-TAMU-Tidal-Hackathon.git
